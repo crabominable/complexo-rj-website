@@ -1,0 +1,24 @@
+{
+  "name": "complexo-rj-website",
+  "homepage": "https://crabominable.github.io/complexo-rj-website/",
+  "version": "1.0.0",
+  "description": "Site desenvolvido pela zoofle/code atoms, para o servidor GTAV RP Complexo RJ.",
+  "main": "script.js",
+  "scripts": {
+    "deploy": "gh-pages -d .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crabominable/complexo-rj-website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crabominable/complexo-rj-website/issues"
+  },
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
